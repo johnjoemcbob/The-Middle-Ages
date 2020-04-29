@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "stone/stonewall044c"
+	"$surfaceprop" "concrete"
+	"%keywords" "c17downtown"
+	"$bumpmap" "stone/stonewall044c_normal"
+}

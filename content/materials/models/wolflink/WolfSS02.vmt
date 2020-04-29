@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+//"LightmappedGeneric"
+{
+	"$baseTexture" "models\wolflink/WolfSS02"
+	"$halflambert" 1
+	"$translucent" 1
+	"Proxies"
+{
+	"AnimatedTexture"
+{
+	"animatedtexturevar" "$basetexture"
+	"animatedtextureframenumvar" "$frame"
+	"animatedtextureframerate" 10
+      }
+   }
+}

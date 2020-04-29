@@ -1,0 +1,10 @@
+ENT.Type = "anim"
+ENT.Base = "base_anim"
+ENT.PrintName = "Cannon Ball"
+ENT.Author	= "Matthew"
+ENT.Contact	= ""
+ENT.Purpose	= ""
+ENT.Instructions = ""
+ENT.Spawnable = true
+ENT.AdminSpawnable = true
+ENT.Category = "The Middle Ages" 

@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	
+	"$baseTexture"	"models/Potion_life/Glass_life_potion"
+	"$surfaceprop" "Glass"
+	"$bumpmap" "models/Potion_life/Glass_life_potion_normal"
+
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmaptint" "[1 1 1]"
+
+	"$envmap" "env_cubemap"
+}

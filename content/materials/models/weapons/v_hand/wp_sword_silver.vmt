@@ -1,0 +1,23 @@
+"VertexLitGeneric"
+{
+	
+	"$baseTexture"	"models\Wp_Sword_Silver\Wp_Sword_Silver"
+	"$surfaceprop" "metal"
+	"$bumpmap" "models\Wp_Sword_Silver\Wp_Sword_Silver_normal"
+
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 0.8
+	"$envmapsaturation" 1
+	//"$envmaptint" "[0.4 0.4 0.4]"
+
+	"$envmap" "env_cubemap"
+
+	"vertexlitgeneric_HDR_dx9"
+
+	{
+
+               "$envmaptint" "[.5 .5 .5]"
+
+	}
+
+}

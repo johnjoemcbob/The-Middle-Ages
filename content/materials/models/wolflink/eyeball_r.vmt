@@ -1,0 +1,7 @@
+"eyes"
+{
+	"$baseTexture" "models/wolflink\WolfSS07"
+	"$iris" "models/wolflink\WolfSS07"
+	"$halflambert" 1
+	"$nodecal" "1"
+}

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\wolflink/WolfSS00"
+	"$halflambert" 1
+}

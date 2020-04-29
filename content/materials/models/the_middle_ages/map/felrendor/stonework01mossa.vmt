@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "de_aztec/stonework01mossa"
+	"$surfaceprop" "rock"
+	"%keywords" "cstrike" 
+}

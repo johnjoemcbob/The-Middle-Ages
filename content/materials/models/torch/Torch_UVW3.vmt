@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\torch\Torch_UVW3"
+	"$bumpmap" "models\torch\Torch_UVW3_Bump"
+	"$surfaceprop" "wood"
+	
+}

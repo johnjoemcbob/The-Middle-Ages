@@ -1,0 +1,10 @@
+ENT.Base 			= "base_anim"
+ENT.Type 			= "anim"
+ENT.Category 		= "Medieval Roleplay"
+ENT.PrintName		= "Damsel Fish"
+ENT.Author			= "G3X n' ReaperSWE"
+ENT.Contact			= ""
+ENT.Purpose			= "To eat"
+ENT.Instructions	= ""
+ENT.Spawnable		= false
+ENT.AdminSpawnable	= false

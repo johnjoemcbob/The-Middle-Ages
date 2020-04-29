@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "medievalrp/HUD/hud_dwarf"
+	"$vertexalpha" 1
+}

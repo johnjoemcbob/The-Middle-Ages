@@ -1,0 +1,10 @@
+ENT.Type = "anim"
+ENT.Base = "base_anim"
+ENT.PrintName = "Ship"
+ENT.Author	= "Sakarias, Matthew"
+ENT.Contact	= ""
+ENT.Purpose	= ""
+ENT.Instructions = ""
+ENT.Spawnable = true
+ENT.AdminSpawnable = true
+ENT.Category = "The Middle Ages" 

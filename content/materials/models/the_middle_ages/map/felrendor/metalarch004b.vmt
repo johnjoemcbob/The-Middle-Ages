@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	// original shader: basetimeslightmapalphablend
+	"$translucent" 1
+	"$basetexture" "metal/metalarch004b"
+	"$surfaceprop" "metal"
+	"%keywords" "c17trainstation"
+	"%compilepassbullets" 1
+}
